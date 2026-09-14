@@ -15,11 +15,10 @@
 ### 🚀 About Me
 
 - 🎓 Data Science student, still figuring out p-values at 2am
-- 🔭 Working on: *[project name here]*
-- 🌱 Learning: *[e.g. Deep Learning, SQL, MLOps]*
+- 🌱 Learning: *Deep Learning, SQL, MLOps*
 - 💬 Ask me about: Python, pandas, ML, EDA
 - 📫 Email: **nadikamiyuru669@gmail.com**
-- ⚡ Fun fact: *[something fun about you]*
+
 
 ---
 
