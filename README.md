@@ -1,86 +1,103 @@
-<h1 align="center">Hi 👋, I'm Nadika Miyuru Madhubhashitha </h1>
-<h3 align="center">Data / AI / ML Enthusiast | Building things with data</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Nadikamiyuru-byte">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F9DE3&center=true&vCenter=true&width=500&lines=Data+Scientist+in+the+making;Machine+Learning+%7C+Deep+Learning;Turning+data+into+decisions;Always+learning%2C+always+building" alt="Typing SVG" />
-  </a>
-</p>
+# 👋 Hey, I'm Nadika Miyuru Madhubhashitha
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F9DE3&center=true&vCenter=true&width=600&lines=Data+Science+Student+%F0%9F%93%8A;Machine+Learning+Nerd+%F0%9F%A4%96;Turning+Data+into+Decisions;Coffee+%E2%86%92+Code+%E2%86%92+Chaos+%E2%98%95)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Nadikamiyuru-byte&label=Profile%20Views&color=2F9DE3&style=for-the-badge&animated=true" />
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+
+</div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: *[project name here]*
-- 🌱 Currently learning: *[e.g. LLMs, MLOps, PyTorch]*
-- 💬 Ask me about: *Python, ML models, data pipelines*
-- 📫 Reach me at: **nadikamiyuru669@gmail.com**
+
+- 🎓 Data Science student, still figuring out p-values at 2am
+- 🔭 Working on: *[project name here]*
+- 🌱 Learning: *[e.g. Deep Learning, SQL, MLOps]*
+- 💬 Ask me about: Python, pandas, ML, EDA
+- 📫 Email: **nadikamiyuru669@gmail.com**
 - ⚡ Fun fact: *[something fun about you]*
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,git,github&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Contribution Snake
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+<a href="https://github.com/Nadikamiyuru-byte">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</a>
 
----
-
-### 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Nadikamiyuru-byte/PROJECT_ONE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadikamiyuru-byte&repo=PROJECT_ONE&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Nadikamiyuru-byte/PROJECT_TWO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nadikamiyuru-byte&repo=PROJECT_TWO&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-> 💡 Replace `PROJECT_ONE` / `PROJECT_TWO` with your actual pinned repo names for this to render.
+</div>
 
 ---
 
-### 🌐 Connect With Me
+### 🎲 Random Quote
 
-<p align="left">
-  <a href="https://linkedin.com/in/t-nadika-miyuru-madhubhashitha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nadikamiyuru669@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-</p>
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a> — thanks for stopping by!</i></p>
+### 📊 Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nadikamiyuru-byte&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadikamiyuru-byte&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nadikamiyuru-byte&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadikamiyuru-byte&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nadikamiyuru-byte&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+### 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/t-nadika-miyuru-madhubhashitha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadikamiyuru669@gmail.com)
+
+<img src="https://img.shields.io/github/followers/Nadikamiyuru-byte?label=Follow&style=social&color=2F9DE3" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=2F9DE3&center=true&width=700&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+turn+data+into+something+cool!+%F0%9F%93%88)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+</div>
